@@ -40,3 +40,8 @@ npm is the standard package manager for Node.js
 2. Very Useful for people
 
 TO USE THIS PACKAGES.
+npm install folderName (Folder name must be within directory)
+
+1. node_modules : THe node modules folder contains every installed dependency for your project.
+2. package-lock.json : It records the exact version of every 
+installed dependency, including its sub-dependencies and their versions.
