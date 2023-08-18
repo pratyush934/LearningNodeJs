@@ -1,2 +1,5 @@
-const math = require('./math');
-console.log(math.sum(3,5));
+// import {sum, PI} from './math.js';
+import { generate, count } from "random-words";
+
+// console.log(PI);
+console.log(generate());

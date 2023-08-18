@@ -45,3 +45,25 @@ npm install folderName (Folder name must be within directory)
 1. node_modules : THe node modules folder contains every installed dependency for your project.
 2. package-lock.json : It records the exact version of every 
 installed dependency, including its sub-dependencies and their versions.
+It contains descriptive and functional metadata about a project such as a name, version, and dependencies.
+
+# LOCAL v/s GLOBAL
+npm install -g <package-name>
+npm link <package-name>
+
+# REQUIRE V/S IMPORT
+import {sum} from "./maths.js"
+
+We can't selectively load only the pieces we need with require but with import, we can selectively load only the piece we need, which can save memory.
+
+Loading is synchronous for 'require' but can be asynchronous for 'import'.
+
+# DONO ME SE KOI EK HI HAI
+
+export const sum = (a, b) => a + b;
+export const mul = (a, b) => a * b;
+export const g = 9.8;
+export const g = 3.14;
+
+ALAG FILE ME
+import {sum, PI} form "./math.js"
