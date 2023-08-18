@@ -1,4 +1,10 @@
 # LearningNodeJs
-This is going to be tough for me to manage.
-I am Pratyush and this very tough for me to manage this Git and Github.
-Hope I will learn very soon there very efficient uses.
+
+# NODE.JS
+JavaScript Runtime Environment
+It is used for server side programming
+
+Node.js is not a language, library or framework.
+
+# Node REPL
+REPL -> Read , Evaluate , Print, Loop
