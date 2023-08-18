@@ -32,3 +32,11 @@ console.log("Hello & Welcome to ", args[i]);
 
    module.exports -> a special object
    --> module.exports = "hello";
+
+
+# NPM (Node Package Manager) :
+npm is the standard package manager for Node.js
+1. Library of packages
+2. Very Useful for people
+
+TO USE THIS PACKAGES.
